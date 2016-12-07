@@ -561,14 +561,7 @@ h5 {
 
 /* services */
 
-.header,
-.contact-inner,
-.services,
-.footer
-{
-    max-width: 967px;
-    margin: auto;
-}
+
 :focus::-webkit-input-placeholder {
     color: transparent;
 }
@@ -580,37 +573,8 @@ h5 {
 }
 
 
-html {
-    font-size: 10px;
-    font-family: 'Open Sans', sans-serif;
-}
-img {
-    max-width: 100%;
-}
-.clearfix:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-h1, h2, h3, h4, h5, h6 {
-    font-weight: normal;
-}
 
 
-/* =Footer */
-.footer { 
-    font-size: 1.6rem;
-    color: #666666;
-    text-align: center;
-    padding: 3.5rem 5rem;
-}
-.footer p {
-    margin: 0px;
-    text-align: center;
-    margin-right: 97px;
-    font-size: 16px;
-}
-/* Footer */
 
 /* Main-contact*/
 .main-contact {
@@ -642,47 +606,6 @@ h1, h2, h3, h4, h5, h6 {
     color: #fff
 }
 /* Main */
-
-/* =Header */
-.header { 
-    padding: 2.5rem 0 0 0;
-    min-height: 6.5rem;
-}
-.header-logo {
-    float: left;
-    width: 15.5rem;
-    padding-left: 1px;
-}
-.header-menu,
-.header-menu li {
-    list-style: none;
-    margin: 0;
-}
-.header-menu {
-    float: right;
-    font-size: 0;
-    letter-spacing: -0.013rem;
-}
-.header-menu li {
-    margin-left: 4rem;
-    display: inline-block;
-    border-bottom: solid 3px #fff;
-}
-.header-menu li.active {
-    border-color: #5094f2;
-}
-.header-menu a {
-    color: #6c6c6c;
-    font-size: 2rem;
-    line-height: 1;
-    text-decoration: none;
-    display: inline-block;
-    padding: 2.5rem 0 1.7rem 0;
-}
-.header-menu a:hover {
-    color: #5094f2;
-}
-/* Header */
 
 /* Contact */
 .contact {
@@ -786,13 +709,6 @@ input[type="email"] {
 
 /* Contact */
 
-.header,
-.contact-inner,
-.footer
-{
-    max-width: 967px;
-    margin: auto;
-}
 
 /*contact-about*/
 .main-contact2 {
