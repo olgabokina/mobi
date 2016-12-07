@@ -377,7 +377,7 @@ li:hover .header-submenu {
 
 }
 .header-menu .header-submenu a:hover {
-    color: rgba(80, 148, 242);
+    color: rgb(80, 148, 242);
     background: #fff;
 }
 /* Submenu */
