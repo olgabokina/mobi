@@ -453,48 +453,9 @@ li:hover .header-submenu {
 }
 /* Main-content */
 
-/* =Header */
-.header { 
-    padding: 2.5rem 0 0 0;
-    min-height: 6.5rem;
-}
-.header-logo {
-    float: left;
-    width: 15.5rem;
-    padding-left: 1px;
-}
-.header-menu,
-.header-menu li {
-    list-style: none;
-    margin: 0;
-}
-.header-menu {
-    float: right;
-    font-size: 0;
-    letter-spacing: -0.013rem;
-}
-.header-menu li {
-    margin-left: 4rem;
-    display: inline-block;
-    border-bottom: solid 3px #fff;
-}
-.header-menu li.active {
-    border-color: #5094f2;
-}
-.header-menu a {
-    color: #6c6c6c;
-    font-size: 2rem;
-    line-height: 1;
-    text-decoration: none;
-    display: inline-block;
-    padding: 2.5rem 0 1.7rem 0;
-}
-.header-menu a:hover {
-    color: #5094f2;
-/* Header */
 
 /* services */
-}
+
 .all {
      background: #333333;
 }
